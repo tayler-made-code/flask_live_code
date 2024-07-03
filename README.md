@@ -28,11 +28,6 @@ pip3 freeze > requirements.txt
 
 Whenever you add a new dependencie you should do this so that anyone working with it can have them
 
-```bash
-export FLASK_APP=application.py
-export FLASK_ENV=development
-```
-
 # Running Flask
 
 ```bash
